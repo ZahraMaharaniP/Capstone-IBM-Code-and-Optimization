@@ -6,10 +6,12 @@
 
 *Enchanted Forest Trials* is an interactive web-based quiz game that challenges players to test their knowledge of mythology, legends, fantasy creatures, and the magical world hidden within an enchanted forest. With its immersive visuals and unique fantasy theme, the game is designed to provide a fun and challenging experience for fans of fantasy and puzzles. Players will navigate a series of questions, testing their speed and accuracy in accumulating **wisdom** (Score) before time runs out.
 
+
 **Technologies used :**
 - HTML5: For the basic structure and content of the web page.
 - CSS3: For the styling and visualization of the "Enchanted Forest Trials" theme, including responsive layout.
 - JavaScript (Vanilla JS): For implementing the core game logic, such as question management, answer checking, score calculation, timers, and transitions between game screens.
+
 
 **Features :**
 - Unique *Enchanted Forest Trials* Theme: Custom-designed visuals and aesthetics with a fantasy forest background, mystical UI elements, and theme-appropriate fonts.
@@ -21,6 +23,7 @@
 - Responsive Design: The game interface adapts well across different device screen sizes (desktop, tablet, mobile).
 - No Backend: A standalone application that runs entirely on the client side (browser), requiring no separate database or server for question data (question data is hardcoded in JavaScript).
 
+
 **Setup Instructions :**
 1. Clone Repository: git clone <URL_REPOSITORY> 
 2. Navigate to Project Directory: cd `<YOUR-PROJECT-FOLDER-NAME>`
@@ -30,7 +33,9 @@
 4. Open Directly in Browser (Alternative):
    - You can also open the index.html file directly in your browser by double-clicking it. However, Live Server is recommended for the best development experience.
 
+
 **AI Support Explanation**
+
 The *Enchanted Forest Trials Quiz Game* project was developed with significant assistance from an AI model (IBM Granite). AI was used as a coding assistant during the development phase to:
 - Rapid Code Generation: AI was used to generate the basic HTML file structure, complex CSS styling based on the theme, and core JavaScript logic for game functionality (e.g., question management, timers, scoring systems, and screen transitions). This drastically accelerated the project's startup process.
 - Improved Code Quality: By providing detailed and specific prompts, AI helped ensure that the generated code followed best practices and was well-structured, thus improving overall code quality and readability.
