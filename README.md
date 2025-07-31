@@ -34,7 +34,7 @@
    - You can also open the index.html file directly in your browser by double-clicking it. However, Live Server is recommended for the best development experience.
 
 
-**AI Support Explanation**
+**AI Support Explanation :**
 
 The *Enchanted Forest Trials Quiz Game* project was developed with significant assistance from an AI model (IBM Granite). AI was used as a coding assistant during the development phase to:
 - Rapid Code Generation: AI was used to generate the basic HTML file structure, complex CSS styling based on the theme, and core JavaScript logic for game functionality (e.g., question management, timers, scoring systems, and screen transitions). This drastically accelerated the project's startup process.
